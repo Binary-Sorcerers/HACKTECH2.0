@@ -11,10 +11,15 @@ TensorFlow, YOLO
 Sensors and Motor components
 ![image](https://github.com/Binary-Sorcerers/HACKTECH2.0/assets/150047610/429a49e8-8a60-4871-89ae-5e2266adf1b0)
 
-
-## Medical Dispensing Line bot-Prototype
-https://github.com/Binary-Sorcerers/HACKTECH2.0/assets/150047610/11193974-44f5-49f0-b092-a9f2651c7344
-
 ## Screening 1 and suggestions provided:
-### 1.To develop prototype of smart wearable that will collect data from the wearer to keep track on health and help during emergency situation
+### 1.To develop prototype of smart wearable that and to keep track on health and help during emergency situation.
+
+## Medication-reminder
+https://github.com/Binary-Sorcerers/HACKTECH2.0/assets/150047610/37dc87ea-2548-4dc9-a7af-89daaf17071b
+
+## SOS-for emergency
+https://github.com/Binary-Sorcerers/HACKTECH2.0/assets/150047610/343c817d-ce6d-4964-878d-e687695ce7f6
+
+
+
 
